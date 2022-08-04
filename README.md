@@ -36,3 +36,5 @@ What was discovered:
 - All but two locations match up with the most popular stations and least popular stations. 
      - This may be due to popular office buildings in the area or perhaps tourist attractions in the area. 
      - Each of these locations is a popular street or well known area of the city.
+     
+link to public tableau account to see all the visualizations in depth: https://public.tableau.com/app/profile/anna.pettigrew 
